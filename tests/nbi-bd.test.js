@@ -26,7 +26,7 @@ casper.start();
       var actual = casper.evaluate(function(){
         return $(nbi_bd.title_selector).length;
       });
-      t.assertEqual(actual, 11, "The title selector is working as expected.");
+      t.assertEqual(actual, 19, "The title selector is working as expected.");
 
       casper.run(function(){t.done();});
     });
