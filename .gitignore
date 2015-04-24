@@ -1,0 +1,7 @@
+vendor/*
+*.swp
+target/*
+composer.lock
+casperjs*
+phantomjs*
+bin/phantomjs*

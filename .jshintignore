@@ -1,0 +1,10 @@
+tmp
+vendor
+casperjs
+phantomjs
+target
+./vendor*
+./casperjs*
+./phantomjs*
+./target*
+
